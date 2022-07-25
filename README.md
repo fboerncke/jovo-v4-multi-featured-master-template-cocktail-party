@@ -1,4 +1,4 @@
-# "Cocktail Party!" - Yet another Jovo V4 master template supporting a lot of features (V1.20220725)
+# "Cocktail Party!" - Yet another Jovo V4 master template for the Alexa Platform supporting a lot of features (V1.20220725)
 
 ## What this is about
 
