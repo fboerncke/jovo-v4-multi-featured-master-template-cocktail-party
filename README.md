@@ -6,7 +6,7 @@ Some time ago I published a [multi featured jovo example application called "Piz
 
 Meanwhile after Google announced sunsetting of Google Action services I have been asked to publish another example focused on the Alexa platform only. Here it is:
 
-[![Cocktail Party Jovo Example Project Template](https://github.com/fboerncke/jovo-v4-multi-featured-master-template-cocktail-party/blob/main/resources/images/cocktail-party-01.png "Cocktail Party Jovo Example Project Template")](https:www.boerncke.de)
+[![Cocktail Party Jovo Example Project Template](https://github.com/fboerncke/jovo-v4-multi-featured-master-template-cocktail-party/blob/main/resources/images/cocktail-party-01.png "Cocktail Party Jovo Example Project Template")](https://www.boerncke.de)
 
 ## Feature list
 
@@ -33,6 +33,7 @@ The configuration in the example shows how to maintain all those necessary entri
 This means *less necessity for working within the developer consoles*. Instead of cloning settings and navigating between multiple browser tabs you can configure it all in one file.
 
 ## Ready to deploy
+
 What you will find nice: **The generated code artifacts validate within the Alexa Developer Console**, so the results are technically ready for deployment: 
 
 This means *more time for you to focus on your use case!*
