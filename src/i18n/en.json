@@ -1,0 +1,23 @@
+{
+  "translation": {
+    "welcome": "Welcome to Cocktail Party!",
+
+    "introQuestion": "Here is a question: ",
+    
+    "cocktailPrompt": "Do you like to try a cocktail? ",
+    "cocktailYes": "Fine. Here is a banana shake cocktail. ",
+    "cocktailNotSure": "Fine with me. I will bring you a milk shake instead. ",
+    "cocktailNo": "No problem. Not everybody likes a cocktail. ",
+
+    "iceCreamPrompt": "How about ice cream? ",
+    "iceCreamYes": "Fine, here I have Straciatella for you. ",
+    "iceCreamNotSure": "You can decide later. ",
+    "iceCreamNo": "Makes sense if you want to loose weight. ",
+
+    "helpMessage": "Please answer the following question with either 'yes', 'no' or 'perhaps': ",
+
+    "goodByeMessage": "Good bye!",
+
+    "outputTemplateArray": ["Yes", "No", "Perhaps", "Again", "Help"]
+  }
+}
