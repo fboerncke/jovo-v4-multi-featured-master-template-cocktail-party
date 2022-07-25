@@ -6,7 +6,7 @@ Some time ago I published a [multi featured jovo example application called "Piz
 
 Meanwhile after Google announced sunsetting of Google Action services I have been asked to publish another example focused on the Alexa platform only. Here it is:
 
-[![Cocktail Party Jovo Example Project Template](https://github.com/fboerncke/jovo-v4-multi-featured-master-template-cocktail-party/blob/main/resources/images/cocktail-party-01.png "Cocktail Party Jovo Example Project Template")](https://raw.githubusercontent.com/fboerncke/jovo-v4-multi-featured-master-template-cocktail-party/main/resources/images/cocktail-party-01.png)
+[![Cocktail Party Jovo Example Project Template](https://github.com/fboerncke/jovo-v4-multi-featured-master-template-cocktail-party/blob/main/resources/images/cocktail-party-01.png "Cocktail Party Jovo Example Project Template")](https:www.boerncke.de)
 
 ## Feature list
 
@@ -44,5 +44,5 @@ Let me know what you think.
 
 frank.boerncke@gmail.com
 
-[![Cocktail Party Jovo Example Project Template - Good Bye Page](https://github.com/fboerncke/jovo-v4-multi-featured-master-template-cocktail-party/blob/main/resources/images/cocktail-party-02.png "Cocktail Party Jovo Example Project Template - Good Bye Page")](https://raw.githubusercontent.com/fboerncke/jovo-v4-multi-featured-master-template-cocktail-party/main/resources/images/cocktail-party-02.png)
+[![Cocktail Party Jovo Example Project Template - Good Bye Page](https://github.com/fboerncke/jovo-v4-multi-featured-master-template-cocktail-party/blob/main/resources/images/cocktail-party-02.png "Cocktail Party Jovo Example Project Template - Good Bye Page")](https://www.boerncke.de)
 
