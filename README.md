@@ -4,7 +4,7 @@
 
 Some time ago I published a [multi featured jovo example application called "Pizza Party "which is intended to have something up and running for both Alexa and Google assistant](https://github.com/fboerncke/jovo-v4-multi-featured-master-template-cocktail-party) in short time.
 
-Meanwhile after Google announced sunsetting of Google Action services I have been asked to publish another example focused on the Alexa platform only. Here it is:
+Meanwhile after Google announced sunsetting of Google Action services I have been asked to publish another example focused on the Alexa platform only. Here it is. Say hello to **Cocktail Party!**:
 
 [![Cocktail Party Jovo Example Project Template](https://github.com/fboerncke/jovo-v4-multi-featured-master-template-cocktail-party/blob/main/resources/images/cocktail-party-01.png "Cocktail Party Jovo Example Project Template")](https://www.boerncke.de)
 
