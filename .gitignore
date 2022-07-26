@@ -75,3 +75,5 @@ dist/
 
 # ignore scratchpad
 SCRATCHPAD.md
+
+node_modules
